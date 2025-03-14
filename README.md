@@ -15,7 +15,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - **FluentValidation** - Validação de entrada de dados
 - **MediatR** - Implementação do padrão CQRS
 - **Entity Framework Core** - ORM para persistência de dados
-- **xUnit / NUnit / MSTest** - Testes unitários
+- **xUnitt** - Testes unitários
 - **Swagger** - Documentação da API
 - **Serilog** - Logging estruturado
 
